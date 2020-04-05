@@ -5,10 +5,10 @@ import "../Header/style.css"
 function Header() {
     return(
         
-        <header classname="header">
+        <center classname="header">
         <h1>Employee Directory</h1>
         <p>This is the company's directory</p>
-        </header>
+        </center>
     );
 }
 
