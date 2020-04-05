@@ -1,5 +1,5 @@
 {
-  "homepage": "https://iamha1.github.io/employee-directory/.",
+  "homepage": "https://iamha1.github.io/employee-dir/.",
   "name": "employee-directory",
   "version": "0.1.0",
   "private": true,
@@ -35,7 +35,7 @@
       "last 1 safari version"
     ]
   },
-   "devDependencies": {
+  "devDependencies": {
     "gh-pages": "^2.2.0"
   }
 }

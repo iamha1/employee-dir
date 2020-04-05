@@ -5,13 +5,9 @@ table {
     border-width: 1px;
     margin: auto;
     margin-top: 30px;
-    /* max-width: 1150px; */
     overflow-x: auto;
     width: 80%;
-    text-align: center;
 }
-
-
 
 tbody:nth-child(even) {
     background-color: #f2f2f2;
