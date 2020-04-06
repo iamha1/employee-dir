@@ -4,6 +4,8 @@
     border-bottom: solid;
     border-color: red;
     border-width: 5px;
+    text-align: center;
+    color: white;
     
   }
 
@@ -11,12 +13,12 @@
     margin: 20px;
     padding-top: 20px;
     text-align: center;
-    color: black;
+    color: white;
     font-size: 2rem;
   } 
   
   p{
-    color: black;
+    color: white;
     text-align: center;
     font-size: large;
   }
