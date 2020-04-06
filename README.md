@@ -33,6 +33,6 @@ https://github.com/iamha1/employee-dir
 
 ## Link for GitHub Deployement: 
 
-hhttps://iamha1.github.io/employee-dir/
-│
+hhttps://iamha1.github.io/employee-dir
+
 
