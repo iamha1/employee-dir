@@ -3,7 +3,7 @@
 An application allows employer to view and have quick access to the entire employee directory.
 
 ## Demonstration:
-![Employee Directory](views/jpg/burger_devoured.jpg)
+![Employee Directory](public/employee_dir.jpg)
 
 ## Installation: 
 - Install `create-react-app`
