@@ -27,7 +27,7 @@ ReactJS
 - Create components in which it has an JSX file and a CSS file
 - Creat an API.js file which connet to the API: `https://randomuser.me/api/?results=50`
 
-## Link to burger-for-life on GitHub:
+## Link to employee-dir on GitHub:
 
 https://github.com/iamha1/employee-dir
 
